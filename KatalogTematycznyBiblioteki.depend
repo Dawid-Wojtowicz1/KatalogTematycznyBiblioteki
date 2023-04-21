@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1682000534 source:c:\users\48504\desktop\katalogtematycznybiblioteki\book.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	<fstream>
+	<sstream>
+	"book.h"
+
+1681999979 c:\users\48504\desktop\katalogtematycznybiblioteki\book.h
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<sstream>
+	<string>
+
+1681999979 source:c:\users\48504\desktop\katalogtematycznybiblioteki\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	<fstream>
+	<sstream>
+	"book.h"
+

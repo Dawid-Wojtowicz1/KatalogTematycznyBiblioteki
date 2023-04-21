@@ -1,0 +1,6 @@
+Pan Tadeusz,Adam Mickiewicz,dramat,historia,sensacja
+Rok 1984,George Orwell,dramat,historia,psychologia
+Folwark zwierzecy,George Orwell,dramat,historia,psychologia
+Boze igrzysko,Norman Davies,historia,kultura,psychologia
+Czarny labedz,Taleb Nassim Nicholas,historia,ekonmia,psychologia
+Alien,Foster Alan Dean,science fiction,psychologia,technologia
